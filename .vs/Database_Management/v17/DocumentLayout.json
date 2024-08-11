@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Danielle\\source\\repos\\Database_Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE1BEA4-7A7A-4BF7-8948-D21ECBCAEB07}|Database_Management\\Database_Management.vbproj|c:\\users\\danielle\\source\\repos\\database_management\\database_management\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3AE1BEA4-7A7A-4BF7-8948-D21ECBCAEB07}|Database_Management\\Database_Management.vbproj|solutionrelative:database_management\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE1BEA4-7A7A-4BF7-8948-D21ECBCAEB07}|Database_Management\\Database_Management.vbproj|c:\\users\\danielle\\source\\repos\\database_management\\database_management\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{3AE1BEA4-7A7A-4BF7-8948-D21ECBCAEB07}|Database_Management\\Database_Management.vbproj|solutionrelative:database_management\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE1BEA4-7A7A-4BF7-8948-D21ECBCAEB07}|Database_Management\\Database_Management.vbproj|c:\\users\\danielle\\source\\repos\\database_management\\database_management\\database_management.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3AE1BEA4-7A7A-4BF7-8948-D21ECBCAEB07}|Database_Management\\Database_Management.vbproj|solutionrelative:database_management\\database_management.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE1BEA4-7A7A-4BF7-8948-D21ECBCAEB07}|Database_Management\\Database_Management.vbproj|c:\\users\\danielle\\source\\repos\\database_management\\database_management\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3AE1BEA4-7A7A-4BF7-8948-D21ECBCAEB07}|Database_Management\\Database_Management.vbproj|solutionrelative:database_management\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\Danielle\\source\\repos\\Database_Management\\Database_Management\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "Database_Management\\Form1.Designer.vb",
+              "ToolTip": "C:\\Users\\Danielle\\source\\repos\\Database_Management\\Database_Management\\Form1.Designer.vb",
+              "RelativeToolTip": "Database_Management\\Form1.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-11T09:17:03.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Database_Management",
+              "DocumentMoniker": "C:\\Users\\Danielle\\source\\repos\\Database_Management\\Database_Management\\Database_Management.vbproj",
+              "RelativeDocumentMoniker": "Database_Management\\Database_Management.vbproj",
+              "ToolTip": "C:\\Users\\Danielle\\source\\repos\\Database_Management\\Database_Management\\Database_Management.vbproj",
+              "RelativeToolTip": "Database_Management\\Database_Management.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-08-11T09:20:11.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Danielle\\source\\repos\\Database_Management\\Database_Management\\Form1.vb",
+              "RelativeDocumentMoniker": "Database_Management\\Form1.vb",
+              "ToolTip": "C:\\Users\\Danielle\\source\\repos\\Database_Management\\Database_Management\\Form1.vb",
+              "RelativeToolTip": "Database_Management\\Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-11T08:51:11.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Danielle\\source\\repos\\Database_Management\\Database_Management\\Form1.vb",
+              "RelativeDocumentMoniker": "Database_Management\\Form1.vb",
+              "ToolTip": "C:\\Users\\Danielle\\source\\repos\\Database_Management\\Database_Management\\Form1.vb [Design]",
+              "RelativeToolTip": "Database_Management\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-11T07:18:11.367Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
